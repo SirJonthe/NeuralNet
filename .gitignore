@@ -1,0 +1,14 @@
+# Temporary files
+*~
+*.DS_Store
+*.bak
+
+# Build paths
+/Debug
+/Release
+/tmp
+/Unit
+
+# QtCreator files
+*.pro
+*.pro.*
